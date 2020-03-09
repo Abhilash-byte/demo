@@ -1,4 +1,3 @@
 # demo
 Demo class 
-
-First time user to GITHUB
+New user to GITHUB
